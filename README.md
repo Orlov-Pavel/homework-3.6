@@ -1,6 +1,7 @@
 # Домашнее задание к занятию "3.6. Компьютерные сети, лекция 1"
 1. Ответ сервера: http код ```403 Forbidden``` - это означает что сервер понял запрос, но у нас нет доступа к этой странице.  
-   ![telnet](./pictures/telnet.PNG)
+   ![telnet](./pictures/telnet.PNG)  
+   ![telnet 2](./pictures/telnet%202.PNG)
 2. Ответ сервера: ```200 OK```.  
    Дольше всего выполнялся POST на ```stats.g.doubleclick.net```. Он выполнялся 1,91 секунд.  
    ![stackoverflow](./pictures/stackoverflow.PNG)
